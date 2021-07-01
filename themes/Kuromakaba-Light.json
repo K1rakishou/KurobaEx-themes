@@ -6,6 +6,7 @@
   "accent_color": "#f3630e",
   "primary_color": "#000000",
   "back_color": "#e2e2e2",
+  "back_color_secondary": "#bfbfbf",
   "post_details_color": "#6a6a6a",
   "post_highlight_quote_color": "#f3630e",
   "post_highlighted_color": "#f1f1f1",
