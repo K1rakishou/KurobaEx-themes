@@ -1,6 +1,7 @@
 {
   "accent_color": "#2696D7",
   "back_color": "#000000",
+  "back_color_secondary": "#000000",
   "bookmark_counter_has_replies_color": "#298a2e",
   "bookmark_counter_normal_color": "#18769b",
   "bookmark_counter_not_watching_color": "#ff898989",
