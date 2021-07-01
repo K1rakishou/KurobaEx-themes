@@ -5,6 +5,7 @@
     "light_status_bar": true,
     "accent_color": "#eee8d5",
     "back_color": "#fdf6e3",
+    "back_color_secondary": "#abaaa9",
     "bookmark_counter_has_replies_color": "#2aa198",
     "bookmark_counter_normal_color": "#586e75",
     "bookmark_counter_not_watching_color": "#93a1a1",
