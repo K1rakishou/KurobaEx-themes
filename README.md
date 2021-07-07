@@ -4,6 +4,10 @@ Themes in this repository are used by the in-app theme gallery.
 
 You can access theme gallery by going to Settings -> Appearance -> Theme -> More themes (They are separated by light/dark type).
 
+# Theme structure updates:
+
+* "back_color_secondary" was introduced in v0.10.x. By default, it's calculated automatically based on "back_color" (either makes it darker or brighter) but it may not look good. So you need to update your themes.
+
 # How to add a new theme into this repository
 
 Make sure the theme json is actually valid! You can check it here: https://jsonformatter.org/ 
