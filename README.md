@@ -10,6 +10,8 @@ You can access theme gallery by going to Settings -> Appearance -> Theme -> More
 
 # How to add a new theme into this repository
 
+Color guide can be found here: https://github.com/K1rakishou/KurobaEx-themes/wiki/Dynamic-themes
+
 Make sure the theme json is actually valid! You can check it here: https://jsonformatter.org/ 
 
 Theme file extension is "json". Theme file name must end with the theme type (light or dark), e.g. "example-theme-light.json" if it's a light theme and "example-theme-dark.json" if it's a dark theme. Try not to use whitespaces/unicode symbols in the file name.
